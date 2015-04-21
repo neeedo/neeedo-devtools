@@ -1,0 +1,15 @@
+{
+  "name": "neeedo-dockerfile-validator",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "validate-dockerfile": "~1.5.2"
+  },
+  "scripts": {
+    "start": "node validate.js"
+  },
+  "author": "neeedo",
+  "license": ""
+}
